@@ -1,6 +1,6 @@
 EV Buses Charging Optimiser 
 - Uses Linear Programming to solve for optimum charging schedule of buses to minimize energy costs
-- Outplots Matplotlib stack plot and csv results/charging_schedule.csv
+- Outputs Matplotlib stack plot and csv in results/charging_schedule.csv
 
 Problem Variables:
 Bus: (simulation/bus)
