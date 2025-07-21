@@ -14,6 +14,8 @@ Bus: (simulation/bus)
 
 Depot: (simulation/depot)
 - P_depot_max - Depot maximum power (kW)
+
+Tariffs: (simulation/tariffs)
 - Tariffs: Varying electricity price by hour
 
 Requirements:
