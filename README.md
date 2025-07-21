@@ -19,6 +19,10 @@ Depot: (simulation/depot)
 Requirements:
 Scipy Matplotlib Pandas (pip install)
 
+Customisability:
+All bus properties (Energy Requirements, Arrival/Departure, Battery Specs) can be adjusted in simulation/buses_generator
+Tariffs and duration can be adjusted in simulation/tariff.py
+
 Run the script:
 python main.py
 
