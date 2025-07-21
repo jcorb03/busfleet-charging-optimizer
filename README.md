@@ -28,4 +28,4 @@ Bus 1: [50.0, 50.0, 50.0, 0.0, 0.0, 0.0, 0.0, 16.7]  -> Final SoC: 250.0 kWh
 Bus 2: [50.0, 11.1, 50.0, 0.0, 0.0, 0.0, 0.0, 33.3]  -> Final SoC: 250.0 kWh
 ...
 
-![alt text](image.png)
+<img width="626" height="478" alt="image" src="https://github.com/user-attachments/assets/6f1479b2-81f7-4372-be25-a574a54a14d8" />
